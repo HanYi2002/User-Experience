@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Campus Lost & Found",
+    "slug": "campus-lost-found",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
